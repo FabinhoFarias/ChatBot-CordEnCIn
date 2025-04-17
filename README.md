@@ -59,10 +59,10 @@ Interface.launch(debug=True)
 
 ## 🧠 Tecnologias usadas
 
-- [OpenAI API](https://platform.openai.com/)
-- [Gradio](https://gradio.app/)
-- Python 3.10+
-- Google Colab
+- [OpenAI API](https://platform.openai.com/): Contrução do agente;
+- [Gradio](https://gradio.app/): Contrução da interface;
+- Python 3.10 ou versões superiores: linguagem de programação para contrução do código;
+- Google Colab: IDE para rodar o código.
 
 ---
 
